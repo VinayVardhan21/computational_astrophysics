@@ -160,6 +160,11 @@ parts:
       sections:
       - file: reaction_networks/application-CNO-network
 
+  - caption: Magnetohydrodynamics
+    chapters:
+    - file: mhd/mhd
+    - file: mhd/mhd-riemann
+    
   - caption: Machine Learning
     chapters:
     - file: machine-learning/neural-net-basics
